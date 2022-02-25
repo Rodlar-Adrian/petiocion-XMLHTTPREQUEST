@@ -1,2 +1,2 @@
-# petiocion-XMLHTTPREQUEST
+# peticion-XMLHTTPREQUEST
 consumo api con metodo xmlhttpRequest
